@@ -1,0 +1,15 @@
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\bin\Debug\net7.0\DependencyPattern.exe
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\bin\Debug\net7.0\DependencyPattern.deps.json
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\bin\Debug\net7.0\DependencyPattern.runtimeconfig.json
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\bin\Debug\net7.0\DependencyPattern.dll
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\bin\Debug\net7.0\DependencyPattern.pdb
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\DependencyPattern.csproj.AssemblyReference.cache
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\DependencyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\DependencyPattern.AssemblyInfoInputs.cache
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\DependencyPattern.AssemblyInfo.cs
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\DependencyPattern.csproj.CoreCompileInputs.cache
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\DependencyPattern.dll
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\refint\DependencyPattern.dll
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\DependencyPattern.pdb
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\DependencyPattern.genruntimeconfig.cache
+C:\Users\saide\DotNetCoreDesignPattern\DependencyPattern\obj\Debug\net7.0\ref\DependencyPattern.dll

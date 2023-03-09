@@ -1,0 +1,15 @@
+C:\Users\saide\dotnetcore\bin\Debug\net7.0\dotnetcore.exe
+C:\Users\saide\dotnetcore\bin\Debug\net7.0\dotnetcore.deps.json
+C:\Users\saide\dotnetcore\bin\Debug\net7.0\dotnetcore.runtimeconfig.json
+C:\Users\saide\dotnetcore\bin\Debug\net7.0\dotnetcore.dll
+C:\Users\saide\dotnetcore\bin\Debug\net7.0\dotnetcore.pdb
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\dotnetcore.csproj.AssemblyReference.cache
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\dotnetcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\dotnetcore.AssemblyInfoInputs.cache
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\dotnetcore.AssemblyInfo.cs
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\dotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\dotnetcore.dll
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\refint\dotnetcore.dll
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\dotnetcore.pdb
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\dotnetcore.genruntimeconfig.cache
+C:\Users\saide\dotnetcore\obj\Debug\net7.0\ref\dotnetcore.dll
