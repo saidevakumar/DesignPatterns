@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GMKi/H+VcAjajadxS3kC8XAZysoXTJ2x836p7CQ8poRpBfb1xJWfMGKsG9rqOcjLrL3N55r5j4t9hmXh1E1SNA==",
+  "dgSpecHash": "KEEhcWP1NoEtq7kTJ0JfCtL7PuyopcaxWoVh3Z6ivNyl2nJ1pIKwcQOFrXs4nCcuJqJ80VEK9RGqM4wnmFZTqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saide\\DotNetCore\\dotnetcore.csproj",
+  "projectFilePath": "C:\\Users\\saide\\OneDrive\\Job Searching\\GitHub\\DesignPatterns\\StrategyPattern\\dotnetcore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
