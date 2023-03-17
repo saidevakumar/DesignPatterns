@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saide\\DotNetCoreDesignPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+      "projectUniqueName": "C:\\Users\\saide\\OneDrive\\Job Searching\\GitHub\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
       "projectName": "DecoratorPattern",
-      "projectPath": "C:\\Users\\saide\\DotNetCoreDesignPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+      "projectPath": "C:\\Users\\saide\\OneDrive\\Job Searching\\GitHub\\DesignPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
       "packagesPath": "C:\\Users\\saide\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saide\\DotNetCoreDesignPattern\\DecoratorPattern\\obj\\",
+      "outputPath": "C:\\Users\\saide\\OneDrive\\Job Searching\\GitHub\\DesignPatterns\\DecoratorPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\saide\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\saide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
