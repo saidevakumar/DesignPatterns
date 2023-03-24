@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-//The adapter converts the interface of a class into another interface that clients expect. It allows classes to work together that
+﻿//The adapter converts the interface of a class into another interface that clients expect. It allows classes to work together that
 //couldn't otherwise because of incompatible interfaces.
 public abstract class Duck
 {

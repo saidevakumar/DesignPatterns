@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-Pizza pza = new Pizza();
+﻿Pizza pza = new Pizza();
 Console.WriteLine(pza.getDescription());
 
 ThinCrustPizza tPza = new ThinCrustPizza();

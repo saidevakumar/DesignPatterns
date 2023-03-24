@@ -1,0 +1,15 @@
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\bin\Debug\net7.0\FactoryPattern.exe
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\bin\Debug\net7.0\FactoryPattern.deps.json
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\bin\Debug\net7.0\FactoryPattern.runtimeconfig.json
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\bin\Debug\net7.0\FactoryPattern.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\bin\Debug\net7.0\FactoryPattern.pdb
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\FactoryPattern.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\refint\FactoryPattern.dll
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\FactoryPattern.pdb
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\saide\OneDrive\Job Searching\GitHub\DesignPatterns\FactoryPattern\obj\Debug\net7.0\ref\FactoryPattern.dll
